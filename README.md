@@ -1,11 +1,14 @@
 blog_django_arabic
 
 
-Steps to download project: 1- Download the full project from this link: 
+Steps to download project: 
+
+
+1- Download the full project from this link: 
 
 or
 
-you can clone the repository using this code: git clone 
+you can clone the repository using this code: git clone https://github.com/dev2informa/blog_django_arabic.git
 
 2- Create your virtual environment:
 
