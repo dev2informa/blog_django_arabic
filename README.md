@@ -1,10 +1,10 @@
-blog_django_arabic
+arabic blog created by django framework
 
 
 Steps to download project: 
 
 
-1- Download the full project from this link: 
+1- Download the full project from this link: https://github.com/dev2informa/blog_django_arabic/archive/master.zip
 
 or
 
